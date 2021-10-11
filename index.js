@@ -10,7 +10,7 @@ var mirador = Mirador.viewer({
   },
   "windows": [
     {
-      "loadedManifest": "http://127.0.0.1:8887/Lam_gods_manifest.json",
+      "loadedManifest": "https://alecvandenbroeck.github.io/Altaarretabel-demo/Lam_gods_manifest.json",
       "canvasIndex": 0,
       "highlightAllAnnotations": true,
       "sideBarPanel": 'annotations',
