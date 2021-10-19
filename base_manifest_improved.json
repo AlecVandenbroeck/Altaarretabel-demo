@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://127.0.0.1:8887/base_manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Portret van Rubens"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "http://127.0.0.1:8887/canvas/p1",
+      "type": "Canvas",
+      "height": 6271,
+      "width": 4876,
+      "label": "Portret van Rubens",
+      "items": [
+        {
+          "id": "http://127.0.0.1:8887/page/p1/1",
+          "type": "Choice",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8887/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": "Normale afbeelding",
+              "body": {
+                "id": "http://localhost:8182/iiif/3/RS13416_949.IRFC.001.tif/0,0,4876,6271/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": 6271,
+                "width": 4876,
+                "service": {
+			"profile": "http://iiif.io/api/image/3/level1.json",
+			"id": "http://localhost:8182/iiif/3/RS13416_949.IRFC.001.tif",
+			"@context": "http://iiif.io/api/image/3/context.json"
+		}
+              },
+              "target": "http://127.0.0.1:8887/canvas/p1"
+            },
+            {
+              "id": "http://127.0.0.1:8887/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "label": "Infrarood versie",
+              "body": {
+                "id": "http://localhost:8182/iiif/3/aligned.tif/0,0,4876,6271/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/png",
+                "height": 6271,
+                "width": 4876,
+		"service": {
+			"profile": "http://iiif.io/api/image/3/level1.json",
+			"id": "http://localhost:8182/iiif/3/aligned.tif",
+			"@context": "http://iiif.io/api/image/3/context.json"
+		}
+              },
+              "target": "http://127.0.0.1:8887/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
