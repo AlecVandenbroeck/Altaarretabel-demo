@@ -32,12 +32,7 @@
                 "type": "Image",
                 "format": "image/png",
                 "height": 6271,
-                "width": 4876,
-                "service": {
-			"profile": "http://iiif.io/api/image/3/level1.json",
-			"id": "http://localhost:8182/iiif/3/RS13416_949.IRFC.001.tif",
-			"@context": "http://iiif.io/api/image/3/context.json"
-		}
+                "width": 4876
               },
               "target": "http://127.0.0.1:8887/canvas/p1"
             },
@@ -51,12 +46,7 @@
                 "type": "Image",
                 "format": "image/png",
                 "height": 6271,
-                "width": 4876,
-		"service": {
-			"profile": "http://iiif.io/api/image/3/level1.json",
-			"id": "http://localhost:8182/iiif/3/aligned.tif",
-			"@context": "http://iiif.io/api/image/3/context.json"
-		}
+                "width": 4876
               },
               "target": "http://127.0.0.1:8887/canvas/p1"
             }
