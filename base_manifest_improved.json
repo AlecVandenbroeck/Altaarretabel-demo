@@ -28,7 +28,7 @@
               "motivation": "painting",
               "label": "Normale afbeelding",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F10.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F17.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
                 "height": 6271,
@@ -47,7 +47,7 @@
               "motivation": "painting",
               "label": "Infrarood versie",
               "body": {
-                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F11.tif/full/full/0/default.jpg",
+                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F18.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
                 "height": 6271,
