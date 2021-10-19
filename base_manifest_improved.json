@@ -52,7 +52,7 @@
                 "format": "image/png",
                 "height": 6271,
                 "width": 4876,
-		"service": {
+									"service": {
                   "profile": "http://iiif.io/api/image/2/level1.json",
                   "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F18.tif",
                   "@context": "http://iiif.io/api/image/2/context.json"
@@ -60,7 +60,7 @@
               },
               "target": "http://127.0.0.1:8887/canvas/p1"
             }
-          ]t
+          ]
         }
       ]
     }
