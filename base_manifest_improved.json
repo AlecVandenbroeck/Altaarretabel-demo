@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://127.0.0.1:8887/base_manifest.json",
+  "id": "https://alecvandenbroeck.github.io/Altaarretabel-demo/base_manifest_improved.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -28,7 +28,7 @@
               "motivation": "painting",
               "label": "Normale afbeelding",
               "body": {
-                "id": "http://localhost:8182/iiif/3/RS13416_949.IRFC.001.tif/0,0,4876,6271/max/0/default.jpg",
+                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F10.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
                 "height": 6271,
@@ -47,7 +47,7 @@
               "motivation": "painting",
               "label": "Infrarood versie",
               "body": {
-                "id": "http://localhost:8182/iiif/3/aligned.tif/0,0,4876,6271/max/0/default.jpg",
+                "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F11.tif/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/png",
                 "height": 6271,
