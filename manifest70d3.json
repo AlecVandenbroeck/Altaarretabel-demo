@@ -1,0 +1,181 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Zelfportret (studie)"
+    ],
+    "nl": [
+      "Zelfportret (studie)"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "Self-Portrait (sketch)"
+        ],
+        "nl": [
+          "Self-Portrait (sketch)"
+        ]
+      },
+      "height": 5000,
+      "width": 3223,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
+                "width": 3223,
+                "height": 5000
+              },
+              "target": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab#xywh=0,0,3223,5000",
+              "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/annotation/12d9ba97-88bd-e4b6-d539-de6ed6773a7f",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/list/36e3818d-a72f-fe07-290b-71e2264cb76e"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/canvas/21b3d435-86be-785b-372a-9316044840ab"
+    }
+  ],
+  "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/manifest",
+  "requiredStatement": {
+    "value": {
+      "en": [
+        "Museum of Fine Arts Ghent"
+      ],
+      "nl": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    },
+    "label": {
+      "en": [
+        "Collection"
+      ],
+      "nl": [
+        "Collectie"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "value": {
+        "en": [
+          "Théo Van Rysselberghe"
+        ],
+        "nl": [
+          "Théo Van Rysselberghe"
+        ]
+      },
+      "label": {
+        "en": [
+          "Artist"
+        ],
+        "nl": [
+          "Kunstenaar"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "± 1880"
+        ],
+        "nl": [
+          "± 1880"
+        ]
+      },
+      "label": {
+        "en": [
+          "Date"
+        ],
+        "nl": [
+          "Datum"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "1970-AE"
+        ],
+        "nl": [
+          "1970-AE"
+        ]
+      },
+      "label": {
+        "en": [
+          "Inventory no."
+        ],
+        "nl": [
+          "Inventarisnr."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Beschrijving"
+        ],
+        "en": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Theo Van Rysselberghe leverde zijn beste werk als portrettist. Dit talent komt al tot uiting in dit vroege werk, geschilderd omstreeks 1880, op achttienjarige leeftijd. De kunstenaar schept een mysterieuze sfeer door zich af te beelden met het hoofddeksel ver over het hoofd getrokken, zodat de schaduw van de rand zijn blik verdoezelt. Alle aandacht gaat naar de jeugdige wangen, de wilskrachtige neus en kin en het sensuele mondje met de pijp. We zien hier al iets van de dandy die we kennen uit zijn brieven en latere zelfportretten."
+        ],
+        "en": [
+          "Theo Van Rysselberghe did his best work as a portraitist. This talent is already reflected in this early work, painted around 1880, at the age of eighteen. The artist creates a mysterious mood by imagining with the hat pulled far over the head so that the shadow of the edge masking his eyes. All the attention goes to the youthful cheeks, nose and chin willed and sensual mouth with the pipe. We see here something of the dandy we know from his letters and later self-portraits."
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "Hugo Maertens"
+        ],
+        "nl": [
+          "Hugo Maertens"
+        ]
+      },
+      "label": {
+        "en": [
+          "Photographer "
+        ],
+        "nl": [
+          "Fotograaf"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Citation"
+        ],
+        "nl": [
+          "Bronvermelding"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be/nl/kunst/zelfportret-studie\" target=\"_blank\">meemoo</a>. If this image is used for a printed publication or a commercial product, Museum of Fine Arts Ghent would appreciate having 2 copies sent to Fernand Scribedreef 1, B-9000 Gent.</p>"
+        ],
+        "nl": [
+          "<p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij  <a href=\"https://artinflanders.be/nl/kunst/zelfportret-studie\" target=\"_blank\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent.</p>"
+        ]
+      }
+    }
+  ],
+  "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
