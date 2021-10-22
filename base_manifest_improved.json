@@ -25,9 +25,6 @@
             {
               "id": "http://127.0.0.1:8887/annotation/p0001-image",
               "type": "Annotation",
-              "label": {
-                "en": ["Test"]
-              },
               "motivation": "painting",
               "body": {
                 "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F17.tif/full/full/0/default.jpg",
