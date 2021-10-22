@@ -25,11 +25,14 @@
             {
               "id": "http://127.0.0.1:8887/annotation/p0001-image",
               "type": "Annotation",
+              "label": {
+                "en": ["Test"]
+              },
               "motivation": "painting",
-              "label": "Normale afbeelding",
               "body": {
                 "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F17.tif/full/full/0/default.jpg",
                 "type": "Image",
+                "label": "Normaal licht",
                 "format": "image/png",
                 "height": 6271,
                 "width": 4876,
@@ -45,10 +48,10 @@
               "id": "http://127.0.0.1:8887/annotation/p0002-image",
               "type": "Annotation",
               "motivation": "painting",
-              "label": "Infrarood versie",
               "body": {
                 "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F18.tif/full/full/0/default.jpg",
                 "type": "Image",
+                "label": "Infrarood licht",
                 "format": "image/png",
                 "height": 6271,
                 "width": 4876,
@@ -64,10 +67,10 @@
               "id": "http://127.0.0.1:8887/annotation/p0003-image",
               "type": "Annotation",
               "motivation": "painting",
-              "label": "X-ray versie",
               "body": {
                 "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F85.tif/full/full/0/default.jpg",
                 "type": "Image",
+                "label": "X-Ray",
                 "format": "image/png",
                 "height": 6271,
                 "width": 4876,
@@ -83,10 +86,10 @@
               "id": "http://127.0.0.1:8887/annotation/p0004-image",
               "type": "Annotation",
               "motivation": "painting",
-              "label": "UV versie",
               "body": {
                 "id": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif/2/public%2F86.tif/full/full/0/default.jpg",
                 "type": "Image",
+                "label": "Ultraviolet licht",
                 "format": "image/png",
                 "height": 6271,
                 "width": 4876,
