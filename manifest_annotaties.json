@@ -1,5 +1,8 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "@context": [
+      "http://iiif.io/api/presentation/3/context.json",
+      "http://www.w3.org/ns/anno.jsonld"
+    ],
     "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/1/manifest.json",
     "type": "Manifest",
     "label": {
