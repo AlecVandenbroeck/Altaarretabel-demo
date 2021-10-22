@@ -1,0 +1,146 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/1/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Vis, schaaldieren, gevogelte, groenten en een kat"
+        ],
+        "en": [
+            "Fish, Crustacea, Poultry, Vegetables and a Cat"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Publisher"
+                ],
+                "en": [
+                    "Publisher"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Koninklijk Museum voor Schone Kunsten Antwerpen"
+                ],
+                "en": [
+                    "Koninklijk Museum voor Schone Kunsten Antwerpen"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Inventarisnummer"
+                ],
+                "en": [
+                    "Object ID"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1"
+                ],
+                "en": [
+                    "1"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Titel"
+                ],
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Vis, schaaldieren, gevogelte, groenten en een kat"
+                ],
+                "en": [
+                    "Fish, Crustacea, Poultry, Vegetables and a Cat"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "nl": [
+            "Vis, schaaldieren, gevogelte, groenten en een kat"
+        ],
+        "en": [
+            "Fish, Crustacea, Poultry, Vegetables and a Cat"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "nl": [
+                "Attributie"
+            ],
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "nl": [
+                "Koninklijk Museum voor Schone Kunsten Antwerpen"
+            ],
+            "en": [
+                "Koninklijk Museum voor Schone Kunsten Antwerpen"
+            ]
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "items": [
+        {
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/1/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Vis, schaaldieren, gevogelte, groenten en een kat"
+                ],
+                "en": [
+                    "Fish, Crustacea, Poultry, Vegetables and a Cat"
+                ]
+            },
+            "width": 7014,
+            "height": 4903
+        }
+    ],
+    "annotations": [
+        {
+            "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/1/annotations/p1",
+            "type": "AnnotationPage",
+            "items": [
+                {
+                    "type": "Annotation",
+                    "body": [
+                        {
+                            "type": "TextualBody",
+                            "value": "Verkleuring",
+                            "purpose": "commenting",
+                            "creator": {
+                                "id": "http://www.example.com/hero-solutions",
+                                "name": "Hero Solutions"
+                            },
+                            "created": "2021-10-21T23:49:21.573Z",
+                            "modified": "2021-10-21T23:49:22.366Z"
+                        }
+                    ],
+                    "target": {
+                        "source": "https://iiif.kmska.be:8183/iiif/2/public@1.tif",
+                        "styleClass": "condition-green",
+                        "selector": {
+                            "type": "SvgSelector",
+                            "value": "<svg><ellipse cx=\"1618.6121215820312\" cy=\"21.385052919387817\" rx=\"38.11322021484375\" ry=\"22.617823362350464\"></ellipse></svg>"
+                        }
+                    },
+                    "@context": "http://iiif.io/api/presentation/3/context.json",
+                    "id": "https://conditierapporten.vlaamsekunstcollectie.be/iiif/3/1/annotation/p1/f5ed7f3a-ee11-4123-b82b-a50f9ff655b8"
+                }
+            ]
+        }
+    ]
+}
